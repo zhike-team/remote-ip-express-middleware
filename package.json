@@ -1,0 +1,20 @@
+{
+  "name": "remote-ip-express-middleware",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {
+    "express": "^4.15.4",
+    "mocha": "^3.5.3",
+    "power-assert": "^1.4.4",
+    "supertest": "^3.0.0"
+  }
+}
